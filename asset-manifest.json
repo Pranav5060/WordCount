@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WordCount/static/css/main.cb991cf1.css",
+    "main.js": "/WordCount/static/js/main.77357d43.js",
+    "index.html": "/WordCount/index.html",
+    "main.cb991cf1.css.map": "/WordCount/static/css/main.cb991cf1.css.map",
+    "main.77357d43.js.map": "/WordCount/static/js/main.77357d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb991cf1.css",
+    "static/js/main.77357d43.js"
+  ]
+}
